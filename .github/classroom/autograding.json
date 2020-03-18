@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "test-1",
+      "setup": "make a.out",
+      "run": "./a.out",
+      "input": "",
+      "output": "Hello, World!",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 69
+    }
+  ]
+}
